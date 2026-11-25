@@ -1,13 +1,35 @@
-# The Shape of the First Rung: How AI Changes What Entry-Level Jobs Ask People to Do
+# The Shape of the First Rung
 
-## Executive summary
+**How AI changes what entry-level jobs ask people to do.**
 
-- **What this is:** the paper repo for *The Shape of the First Rung*.
-- **The question:** when AI takes on more of an occupation's production work, do employers change what they ask entry-level workers to do (less producing, more checking, directing and coordinating), and do they ask for experience a newcomer cannot yet have?
-- **Where it stands (2026-11-24):** a research plan exists, written as a draft application to the Microsoft AI Economy Institute Cohort 4 open call (due December 31, 2026; not submitted). There is no manuscript, no analysis and no data in this repo yet.
-- **Author:** Nik Bear Brown. A second PI is undecided.
+[Read the research plan](source/aiei-cohort-4-project-overview.md) · [How to contribute](CONTRIBUTING.md)
 
-**Want to help?** Read [CONTRIBUTING.md](CONTRIBUTING.md) for what the paper needs and how credit works.
+## Abstract
+
+*Working abstract. No manuscript exists yet, so this describes what the paper sets out to do. It reports no results.*
+
+Juniors have traditionally learned by producing. This paper asks whether employers change what they ask entry-level workers to do as AI takes on more of an occupation's production work: less producing, and more checking, directing and coordinating, along with experience a newcomer cannot yet have. It builds a panel of occupation by seniority by phase of work that joins three layers: what the job involves (O\*NET task ratings), what employers ask for (job postings), and where AI is already used (two independent usage measures). It measures a *rung gap*, the difference between the work asked of entry-level and senior hires within an occupation, and asks whether the gap is larger where AI is used most for production tasks. A daily panel of employers' job boards tracks change over time. Results will be descriptive associations, not causal effects.
+
+## Where the draft is
+
+There is no draft yet. The closest document is the research plan, [source/aiei-cohort-4-project-overview.md](source/aiei-cohort-4-project-overview.md). It was written as a draft grant application that has not been submitted, so its dates are plans.
+
+## What needs to be done
+
+- Define the rung gap exactly.
+- Have people review a sample of the title-to-occupation matches and phase tags.
+- Join the AI-usage measures to the phase tags.
+- Run the cross-section analysis across occupations.
+- Decide the open questions in the plan: a second lead investigator, saving posting text each week, and a possible worker-diary study that would need IRB approval.
+- Settle the boundary with [The Junior's Curve](https://github.com/nikbearbrown/the-juniors-curve), which overlaps with this paper.
+- Write the manuscript.
+
+## How to contribute
+
+Read the [contributor guide](CONTRIBUTING.md). It lists each kind of contribution with where to start and what to send, the rules for this repo, how to submit, and how credit and authorship work.
+
+- **A quick contribution:** open an issue about one claim, source or decision. You don't need to review the whole paper.
+- **To become an author:** take on a component of the work, help write the paper, approve the final version and agree to be accountable for it. The guide explains each step.
 
 ## Sub-questions
 
@@ -16,24 +38,14 @@
 3. **Hidden practice.** Which routine entry-level tasks give newcomers the practice later expertise rests on, and which of those is AI now doing?
 4. **New skills.** Which human capacities do employers now ask juniors for that they did not ask for before?
 
-## Contents
-
-- [source/aiei-cohort-4-project-overview.md](source/aiei-cohort-4-project-overview.md): the research plan as drafted for the grant application on 2026-11-22. It covers the objectives, milestones, methodology, risks and target journals. This is the starting document for the paper. The application itself is kept elsewhere.
-
-## Planned outputs (from the research plan)
-
-- A book chapter, June 2027.
-- A journal manuscript, March 2028.
-- An open, monthly first-rung indicator on jobs.humanitarians.ai.
-
-These dates assume the grant's research period. They are plans, not commitments.
-
 ## Data and related repos
 
 This paper builds on work held elsewhere. None of it is copied here.
 
-- [a-new-shape-for-work](https://github.com/nikbearbrown/a-new-shape-for-work): the six-phase frame, O*NET profiles and the LinkedIn posting snapshot.
+- [a-new-shape-for-work](https://github.com/nikbearbrown/a-new-shape-for-work): the six-phase frame, O\*NET profiles and the LinkedIn posting snapshot.
 - [irreducibly-human-work-lexicon](https://github.com/nikbearbrown/irreducibly-human-work-lexicon): the vocabulary of work concepts.
 - [irreducibly-human-facets](https://github.com/nikbearbrown/irreducibly-human-facets): the seven-facet coding kit.
 - [ai-jobs](https://github.com/nikbearbrown/ai-jobs): the daily posting panel.
-- [the-juniors-curve](https://github.com/nikbearbrown/the-juniors-curve): a separate early-stage study of entry-level STEM work. Its scope overlaps with this paper and the boundary between the two is not yet decided.
+- [the-juniors-curve](https://github.com/nikbearbrown/the-juniors-curve): a separate early-stage study of entry-level STEM work.
+
+**Author:** Nik Bear Brown. The author list is not decided.
