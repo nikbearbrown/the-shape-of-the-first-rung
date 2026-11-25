@@ -4,6 +4,8 @@
 
 [Read the research plan](source/aiei-cohort-4-project-overview.md) · [How to contribute](CONTRIBUTING.md)
 
+**We're inviting collaborators.** Review one claim, check a source, or take on one of the tasks listed below. You don't need to review the whole paper to help. To join, follow [Getting started](CONTRIBUTING.md#getting-started) in the contributor guide.
+
 ## Abstract
 
 *Working abstract. No manuscript exists yet, so this describes what the paper sets out to do. It reports no results.*
@@ -26,7 +28,7 @@ There is no draft yet. The closest document is the research plan, [source/aiei-c
 
 ## How to contribute
 
-Read the [contributor guide](CONTRIBUTING.md). It lists each kind of contribution with where to start and what to send, the rules for this repo, how to submit, and how credit and authorship work.
+Start with [Getting started](CONTRIBUTING.md#getting-started) in the [contributor guide](CONTRIBUTING.md): read the draft or plan, pick one thing to do, and email Nik to be added as a collaborator. The guide lists each kind of contribution with where to start and what to send, the rules for this repo, how to submit, and how credit and authorship work.
 
 - **A quick contribution:** open an issue about one claim, source or decision. You don't need to review the whole paper.
 - **To become an author:** take on a component of the work, help write the paper, approve the final version and agree to be accountable for it. The guide explains each step.
