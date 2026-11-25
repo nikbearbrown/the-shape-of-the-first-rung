@@ -2,9 +2,9 @@
 
 Microsoft AI Economy Institute, Cohort 4 open call. Due **Dec 31, 2026, 6 pm Pacific**. DRAFT of 2026-11-22, not submitted.
 
-The portal holds the exact wording and word limits of the form's questions, and it needs a sign-in, so I could not see them. The public call page lists what the form covers: research question, objectives, goals and milestones (7 questions); alignment with the themes, methodology, anticipated outcomes and impact, and potential risks (5 narrative questions); and up to three target journals. The answers below follow that list. When you open the portal, paste its questions into this file and I will fit each answer to its question and its limit.
+This plan follows the list of contents on the public call page: research question, objectives, goals and milestones; alignment with the themes, methodology, anticipated outcomes and impact, and potential risks; and up to three target journals.
 
-Square brackets mark what only you can fill or decide.
+Square brackets mark decisions that are still open.
 
 ---
 
@@ -15,7 +15,7 @@ Square brackets mark what only you can fill or decide.
 ## Principal investigator(s)
 
 Nik Bear Brown, PhD, Associate Teaching Professor, College of Engineering, Northeastern University.
-[DECIDE: a second PI. The call allows two and prefers interdisciplinary teams. An economist or management scholar would cover the labor-market side; see the README.]
+[DECIDE: a second PI. The call allows two and prefers interdisciplinary teams. An economist or management scholar would cover the labor-market side.]
 
 ## Themes
 

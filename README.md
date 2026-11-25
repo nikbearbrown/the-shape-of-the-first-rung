@@ -2,10 +2,12 @@
 
 ## Executive summary
 
-- **What this is:** the paper repo for *The Shape of the First Rung*. Private.
+- **What this is:** the paper repo for *The Shape of the First Rung*.
 - **The question:** when AI takes on more of an occupation's production work, do employers change what they ask entry-level workers to do (less producing, more checking, directing and coordinating), and do they ask for experience a newcomer cannot yet have?
 - **Where it stands (2026-11-24):** a research plan exists, written as a draft application to the Microsoft AI Economy Institute Cohort 4 open call (due December 31, 2026; not submitted). There is no manuscript, no analysis and no data in this repo yet.
 - **Author:** Nik Bear Brown. A second PI is undecided.
+
+**Want to help?** Read [CONTRIBUTING.md](CONTRIBUTING.md) for what the paper needs and how credit works.
 
 ## Sub-questions
 
@@ -16,7 +18,7 @@
 
 ## Contents
 
-- [source/aiei-cohort-4-project-overview.md](source/aiei-cohort-4-project-overview.md): the research plan as drafted for the grant application on 2026-11-22. It covers the objectives, milestones, methodology, risks and target journals. This is the starting document for the paper. The application itself, with the biosketch, stays in the private `postdoc-search` repo.
+- [source/aiei-cohort-4-project-overview.md](source/aiei-cohort-4-project-overview.md): the research plan as drafted for the grant application on 2026-11-22. It covers the objectives, milestones, methodology, risks and target journals. This is the starting document for the paper. The application itself is kept elsewhere.
 
 ## Planned outputs (from the research plan)
 
