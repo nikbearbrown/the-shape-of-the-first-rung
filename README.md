@@ -8,13 +8,13 @@
 
 ## Abstract
 
-*Working abstract. No manuscript exists yet, so this describes what the paper sets out to do. It reports no results.*
+*Working abstract. A rough methods manuscript is available. It reports no study results.*
 
 Juniors have traditionally learned by producing. This paper asks whether employers change what they ask entry-level workers to do as AI takes on more of an occupation's production work: less producing, and more checking, directing and coordinating, along with experience a newcomer cannot yet have. It builds a panel of occupation by seniority by phase of work that joins three layers: what the job involves (O\*NET task ratings), what employers ask for (job postings), and where AI is already used (two independent usage measures). It measures a *rung gap*, the difference between the work asked of entry-level and senior hires within an occupation, and asks whether the gap is larger where AI is used most for production tasks. A daily panel of employers' job boards tracks change over time. Results will be descriptive associations, not causal effects.
 
 ## Where the draft is
 
-There is no draft yet. The closest document is the research plan, [source/aiei-cohort-4-project-overview.md](source/aiei-cohort-4-project-overview.md). It was written as a draft grant application that has not been submitted, so its dates are plans.
+The [rough methods manuscript and Critique review](critiq-output/) are available. The underlying plan is the research plan, [source/aiei-cohort-4-project-overview.md](source/aiei-cohort-4-project-overview.md). It was written as a draft grant application that has not been submitted, so its dates are plans.
 
 ## What needs to be done
 
@@ -24,7 +24,7 @@ There is no draft yet. The closest document is the research plan, [source/aiei-c
 - Run the cross-section analysis across occupations.
 - Decide the open questions in the plan: a second lead investigator, saving posting text each week, and a possible worker-diary study that would need IRB approval.
 - Settle the boundary with [The Junior's Curve](https://github.com/nikbearbrown/the-juniors-curve), which overlaps with this paper.
-- Write the manuscript.
+- Review and revise the rough manuscript.
 
 ## How to contribute
 
